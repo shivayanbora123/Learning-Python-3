@@ -1,4 +1,4 @@
-# Complete-Python-3-Bootcamp
+# Learning Python 3
 These are the Jupyter Notebooks containing the notes from [Complete Python 3 Bootcamp](https://www.udemy.com/complete-python-bootcamp/) course by [Jose Portilla](https://www.udemy.com/user/joseportilla/) on Udemy and [The Python Bible](https://www.udemy.com/the-python-bible/) Course on Udemy from [Ziyad Yehia](https://www.udemy.com/user/ziyadyehia2/) for learning Python 3.
 
 If you're using these notebooks for reference, please visit the links mentioned above and check-out the courses. The courses are really great and worth checking out! 
