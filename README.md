@@ -1,9 +1,2 @@
 # Complete-Python-3-Bootcamp
-Course Files for Complete Python 3 Bootcamp Course on Udemy
-
-
-Get it now for 95% off with the link:
-https://www.udemy.com/complete-python-bootcamp/?couponCode=COMPLETE_GITHUB
-
-Thanks!
-"# Python-3-Course" 
+These are the Jupyter Notebooks containing the course notes for [Complete Python 3 Bootcamp](https://www.udemy.com/complete-python-bootcamp/) course by [Jose Portilla](https://www.udemy.com/user/joseportilla/) on Udemy alongwith some more personal notes for learning Python 3.
