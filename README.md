@@ -20,4 +20,4 @@ As a part of the courses, I have created the following projects:
 9. [Simple Banking System](https://github.com/shivayanbora123/PythonBibleProject_SimpleBank) : A project to showcase the OO concepts in Python by creating a simple bank.
 
 ## Complete Python 3 Bootcamp:
-*To be completed*
+1. [Guessing Game](https://github.com/shivayanbora123/PythonBootcampProject_GuessingGame): It's a program that will pick up a number at random and we have to guess it correctly.
